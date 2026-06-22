@@ -233,3 +233,7 @@ settings.json
 
 # Sphinx
 docs-sphinx/_build/
+
+.claude/
+
+CLAUDE.md
